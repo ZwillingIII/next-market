@@ -1,0 +1,17 @@
+{
+  "phone": "+971 58 590 7875",
+  "menu": [
+    {
+      "name": "Car List",
+      "link": "/"
+    },
+    {
+      "name": "Yacht list",
+      "link": "/"
+    },
+    {
+      "name": "Chauffeur",
+      "link": "/"
+    }
+  ]
+}
